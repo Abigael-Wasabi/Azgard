@@ -1,0 +1,12 @@
+input{
+    background-color:#F5F5F5;width: 450px;height: 40px;
+    border-radius:5px;margin-bottom: 15px;border-color: transparent;
+}
+a{
+    text-decoration: none;
+}
+
+.btn{
+    margin-bottom: 15px;
+}
+
